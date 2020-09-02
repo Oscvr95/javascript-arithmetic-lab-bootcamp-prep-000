@@ -1,5 +1,5 @@
 function add(a, b) {
-  return a += b 
+  return a += b
 }
 
 function subtract(a, b) {
@@ -21,4 +21,3 @@ function increment(n) {
 function decrement(n) {
   return n -= 1
 }
-
